@@ -2,6 +2,7 @@
 
 <h1 align="center"> MNNIT CSE Pre-Final Year</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran4560&label=Profile%20views&color=0e75b6&style=flat" alt="kiran4560" /> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">A passionate web developer and competetive programmer from India</h3>
 
 
@@ -13,6 +14,8 @@
 - 📫 How to reach me **kiran2022003kumari@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TcSlh1Mzt9YUWXIIc57G64IVeYpuYphz/view?usp=drive_link](https://drive.google.com/file/d/1TcSlh1Mzt9YUWXIIc57G64IVeYpuYphz/view?usp=drive_link)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
