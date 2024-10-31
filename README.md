@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine learing**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kiran4560](https://github.com/Kiran4560)
 
