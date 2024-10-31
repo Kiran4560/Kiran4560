@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJs, Socket.io, MySQL, MongoDB**
+- 🌱 I’m currently learning **Machine learing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kiran4560](https://github.com/Kiran4560)
 
